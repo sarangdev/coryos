@@ -17,7 +17,7 @@ It implements communication with the equipment and connects all the components o
 A magic thing that allows applications to interact with the system, and in principle-to work.
 
   - coryVM:
-This is a "software package" that allows you to run applications of familiar platforms (Windows, Linux, Mac) directly in coryos. A miracle of technology!
+This is a "software package" that allows you to run applications of familiar platforms (Windows, Linux, Mac) directly in coryOS. A miracle of technology!
 
   - maitUI:
 Multifunctional, beautiful, flexible, and most importantly - fast UI for coryOS.
