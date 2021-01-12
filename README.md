@@ -4,10 +4,10 @@
 A completely fresh "operating system" using [Node.js](https://nodejs.org), written in [TypeScript](https://www.typescriptlang.org) (JS)
 
 # How will it work?
-- Lower level
+- Lower level:
 At the bottom, good old Linux is running. In the future, there are plans to develop your own lower level.
 
-- Upper level
+- Upper level:
 At the top level, we are met by Core, API, coryvm and mai tai.
 
   - Core
