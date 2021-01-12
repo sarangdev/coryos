@@ -1,4 +1,4 @@
-[![MIT Licence](https://img.shields.io/badge/license-AGPL--3.0-green)](https://www.gnu.org/licenses/agpl-3.0.ru.html)
+[![MIT Licence](https://img.shields.io/badge/license-AGPL--3.0-green)](https://www.gnu.org/licenses/agpl-3.0.en.html)
 [![Website](https://img.shields.io/badge/website-click-green)](https://coryos.site)
 # CoryOS
 A completely fresh "operating system" using [Node.js](https://nodejs.org), written in [TypeScript](https://www.typescriptlang.org) (JS)
