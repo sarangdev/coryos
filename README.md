@@ -8,7 +8,7 @@ A completely fresh "operating system" using [Node.js](https://nodejs.org), writt
 At the bottom, good old Linux is running. In the future, there are plans to develop own lower level.
 
 - Upper level:
-At the top level, we are met by Core, API, coryvm and mai tai.
+At the top level, we are met by Core, API, coryVM and maitUI.
 
   - Core
 It implements communication with the equipment and connects all the components of the system described earlier.
